@@ -1,4 +1,7 @@
 # Covid19_Analysis
+
+![image]https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.elsevier.com%2Feducation%2Fhealth-faculty-hub%2Fcovid-19&psig=AOvVaw2vBH4suJtDSAJUwb9XM3zd&ust=1680958954259000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOj4nJzql_4CFQAAAAAdAAAAABAE
+
 Analyzing COVID-19 data using Python can help us understand the spread of the virus and its impact on various regions and populations.
 This project aims to analyze the spread of COVID-19 using Python programming language. The project collects data from public sources and uses various Python libraries to preprocess, visualize, and analyze the data.
 
